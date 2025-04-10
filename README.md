@@ -1,6 +1,5 @@
 # 🎓 Online Competitive Entrance Exam Platform
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-14+-green.svg)
 ![Django](https://img.shields.io/badge/Django-latest-red.svg)
@@ -8,7 +7,7 @@
 
 > A comprehensive web-based platform for conducting secure online competitive entrance examinations with integrated payment processing, user management, and advanced exam administration.
 
-![Platform Login](./images/2.jpg)
+![Platform Login](./images/2.JPG)
 *Overview of the Online Exam Platform dashboard*
 
 ## ✨ Features
@@ -21,7 +20,7 @@
 - Access detailed performance analytics and results
 - Download  result transcripts
 
-![Candidate Dashboard](./images/3.jpg)
+![Candidate Dashboard](./images/3.JPG)
 *Candidate dashboard showing available exams and progress*
 
 #### 👨‍🏫 Administrator (Teacher)
