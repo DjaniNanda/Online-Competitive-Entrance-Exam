@@ -8,7 +8,7 @@
 > A comprehensive web-based platform for conducting secure online competitive entrance examinations with integrated payment processing, user management, and advanced exam administration.
 
 ![Platform Login](./images/2.JPG)
-*Overview of the Online Exam Platform dashboard*
+*Overview of the Online Exam Platform login*
 
 ## ✨ Features
 
@@ -21,7 +21,7 @@
 - Download  result transcripts
 
 ![Candidate Dashboard](./images/3.JPG)
-*Candidate dashboard showing available exams and progress*
+*Candidate dashboard showing available exams *
 
 #### 👨‍🏫 Administrator (Teacher)
 - Design and manage question banks
@@ -29,7 +29,7 @@
 - Monitor real-time exam statistics
 - Generate comprehensive performance reports
 
-![Administrator Interface](./images/6.jpg)
+![Administrator Interface](./images/6.JPG)
 *Administrator interface for exam management*
 
 #### 👨‍💼 System Admin
@@ -39,7 +39,7 @@
 - Configure system-wide settings
 - Access audit logs and security features
 
-![Admin Interface](./images/5.jpg)
+![Admin Interface](./images/5.JPG)
 ### 🛠️ Core Functionalities
 
 | Feature | Description |
@@ -50,7 +50,7 @@
 | **Analytics** | Detailed insights into candidate performance and exam statistics |
 | **Responsive Design** | Optimized for desktop, tablet, and mobile devices |
 
-![Exam Interface](./images/4.jpg)
+![Exam Interface](./images/4.JPG)
 
 ## 🚀 Getting Started
 
