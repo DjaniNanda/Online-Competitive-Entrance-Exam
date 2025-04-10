@@ -1,0 +1,14 @@
+
+# Node.js (React)
+node_modules/
+build/
+
+# Python (Django)
+venv/
+.env/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# OS
+.DS_Store
